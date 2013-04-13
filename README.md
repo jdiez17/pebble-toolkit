@@ -8,11 +8,11 @@ Installation
 
 Clone the repository:
 
-  $ git clone git@github.com:jdiez17/pebble-toolkit.git
+    $ git clone git@github.com:jdiez17/pebble-toolkit.git
 
 Install the dependencies:
 
-  $ pip install requests docopt 
+    $ pip install requests docopt 
 
 Cloud compilation
 ==================
